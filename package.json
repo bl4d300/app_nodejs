@@ -1,0 +1,19 @@
+{
+  "name": "app_nodejs",
+  "version": "1.0.0",
+  "description": "soal ujikom junior programmer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "echo \"Hello World!\""
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "ardhi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "app_nodejs"
+  }
+}
